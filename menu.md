@@ -1,13 +1,18 @@
 # Menu
+
 ## TOC
- - [Prologue](#Prologue)
- - [Getting Started](#Getting-Started)
- - ()[]
- - ()[]
- - ()[]
- - ()[]
-
-
+ - [Prologue](#prologue)
+ - [Getting Started](#getting-started)
+ - [Architecture Concepts](#architecture-concepts)
+ - [The Basics](#the-basics)
+ - [Frontend](#frontend)
+ - [Security](#security)
+ - [Digging Deeper](#digging-deeper)
+ - [Database](#database)
+ - [Eloquent ORM](#eloquent-orm)
+ - [Testing](#testing)
+ - [Official Packages](#official-packages)
+ 
 ## Prologue
   - [Release Notes](releases.md)
   - [Upgrade Guide](upgrade.md)
