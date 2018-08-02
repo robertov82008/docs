@@ -1,7 +1,7 @@
 # Menu
 ## TOC
  - [Prologue](##Prologue)
- - [Getting Started](##GettingStarted)
+ - [Getting Started](##Getting-Started)
  - ()[]
  - ()[]
  - ()[]
