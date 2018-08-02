@@ -15,10 +15,19 @@
   - [Deployment](deployment.md)
   
 ## Architecture Concepts
-  - []()
-  - []()
+  - [Request Lifecycle](lifecycle.md)
+  - [Service Container](container.md)
+  - [Service Providers](providers.md)
+  - [Facades](facades.md)
+  - [Contracts](contracts.md)
   
 ## The Basics
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
   - []()
   - []()
   
